@@ -13,9 +13,9 @@ GitHub Actions에 워크플로우를 작성해 다음과 같이 배포가 진행
 ## 주요 링크
 
 - s3 버킷 웹사이트 엔드포인트 
-    http://amzn-s3-mijeon-bucket0.s3-website-ap-southeast-2.amazonaws.com/
+: http://amzn-s3-mijeon-bucket0.s3-website-ap-southeast-2.amazonaws.com/
 - CloudFrount 배포 도메인 이름
-    d26vz7r83p6mdq.cloudfront.net
+: [d26vz7r83p6mdq.cloudfront.net](https://d26vz7r83p6mdq.cloudfront.net/)
 
 ## 주요 개념
 
