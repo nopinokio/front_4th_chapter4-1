@@ -96,7 +96,7 @@ GitHub Actions에 워크플로우를 작성해 다음과 같이 배포가 진행
 ## 배포 파이프라인을 설명하는 다이어그램과 설명
 
 <div align="center"></div>
-  <img src="public/my-Diagram.drawio.png" alt="배포 파이프라인 다이어그램" width="531px">
+  <img src="public/배포-파이프라인-설명.png" alt="배포 파이프라인 다이어그램" width="531px">
 </div>
 
 - 개발자가 코드를 GitHub 저장소에 Push하면 GitHub Actions 워크플로우가 자동으로 실행 (deployment.yml)
