@@ -69,9 +69,6 @@
         <mxCell id="Y_ei04VsI1s3eIdMdrZa-26" value="요청 / 응답" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y_ei04VsI1s3eIdMdrZa-28" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1">
-          <mxGeometry x="400" y="520" width="50" height="35.5" as="geometry" />
-        </mxCell>
         <mxCell id="Y_ei04VsI1s3eIdMdrZa-32" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="1">
           <mxGeometry x="135" y="530" width="150" height="120" as="geometry" />
         </mxCell>
